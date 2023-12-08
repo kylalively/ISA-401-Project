@@ -1,0 +1,1766 @@
+"","State","Marital.Status","Year","Births"
+"1","Alabama","Married",2007,39964
+"2","Alabama","Married",2008,38800
+"3","Alabama","Married",2009,36883
+"4","Alabama","Married",2010,34880
+"5","Alabama","Married",2011,34342
+"6","Alabama","Married",2012,33578
+"7","Alabama","Married",2013,33617
+"8","Alabama","Married",2014,33701
+"9","Alabama","Married",2015,33495
+"10","Alabama","Married",2016,32701
+"11","Alabama","Married",2017,31180
+"12","Alabama","Married",2018,30745
+"13","Alabama","Married",2019,30268
+"14","Alabama","Married",2020,29746
+"15","Alabama","Married",2021,31079
+"16","Alabama","Married",2022,31791
+"17","Alabama","Unmarried",2007,24840
+"18","Alabama","Unmarried",2008,25746
+"19","Alabama","Unmarried",2009,25592
+"20","Alabama","Unmarried",2010,25170
+"21","Alabama","Unmarried",2011,25012
+"22","Alabama","Unmarried",2012,24870
+"23","Alabama","Unmarried",2013,24550
+"24","Alabama","Unmarried",2014,25721
+"25","Alabama","Unmarried",2015,26162
+"26","Alabama","Unmarried",2016,26450
+"27","Alabama","Unmarried",2017,27755
+"28","Alabama","Unmarried",2018,27014
+"29","Alabama","Unmarried",2019,28338
+"30","Alabama","Unmarried",2020,27895
+"31","Alabama","Unmarried",2021,26970
+"32","Alabama","Unmarried",2022,26349
+"33","Alaska","Married",2007,6935
+"34","Alaska","Married",2008,7142
+"35","Alaska","Married",2009,7021
+"36","Alaska","Married",2010,7160
+"37","Alaska","Married",2011,7239
+"38","Alaska","Married",2012,7003
+"39","Alaska","Married",2013,7495
+"40","Alaska","Married",2014,7331
+"41","Alaska","Married",2015,7211
+"42","Alaska","Married",2016,7157
+"43","Alaska","Married",2017,6746
+"44","Alaska","Married",2018,6510
+"45","Alaska","Married",2019,6251
+"46","Alaska","Married",2020,6006
+"47","Alaska","Married",2021,5946
+"48","Alaska","Married",2022,5917
+"49","Alaska","Unmarried",2007,4117
+"50","Alaska","Unmarried",2008,4300
+"51","Alaska","Unmarried",2009,4303
+"52","Alaska","Unmarried",2010,4311
+"53","Alaska","Unmarried",2011,4217
+"54","Alaska","Unmarried",2012,4184
+"55","Alaska","Unmarried",2013,3951
+"56","Alaska","Unmarried",2014,4061
+"57","Alaska","Unmarried",2015,4071
+"58","Alaska","Unmarried",2016,4052
+"59","Alaska","Unmarried",2017,3689
+"60","Alaska","Unmarried",2018,3559
+"61","Alaska","Unmarried",2019,3564
+"62","Alaska","Unmarried",2020,3454
+"63","Alaska","Unmarried",2021,3419
+"64","Alaska","Unmarried",2022,3433
+"65","Alaska","Not Reported",2017,10
+"66","Alaska","Not Reported",2018,17
+"67","Arizona","Married",2007,56396
+"68","Arizona","Married",2008,54403
+"69","Arizona","Married",2009,50637
+"70","Arizona","Married",2010,48183
+"71","Arizona","Married",2011,47316
+"72","Arizona","Married",2012,47122
+"73","Arizona","Married",2013,46725
+"74","Arizona","Married",2014,47663
+"75","Arizona","Married",2015,46489
+"76","Arizona","Married",2016,46467
+"77","Arizona","Married",2017,45160
+"78","Arizona","Married",2018,44427
+"79","Arizona","Married",2019,43435
+"80","Arizona","Married",2020,42100
+"81","Arizona","Married",2021,42479
+"82","Arizona","Married",2022,43073
+"83","Arizona","Unmarried",2007,46585
+"84","Arizona","Unmarried",2008,45039
+"85","Arizona","Unmarried",2009,42161
+"86","Arizona","Unmarried",2010,39294
+"87","Arizona","Unmarried",2011,38227
+"88","Arizona","Unmarried",2012,39319
+"89","Arizona","Unmarried",2013,38875
+"90","Arizona","Unmarried",2014,39224
+"91","Arizona","Unmarried",2015,38862
+"92","Arizona","Unmarried",2016,38053
+"93","Arizona","Unmarried",2017,36604
+"94","Arizona","Unmarried",2018,36180
+"95","Arizona","Unmarried",2019,35833
+"96","Arizona","Unmarried",2020,34737
+"97","Arizona","Unmarried",2021,35296
+"98","Arizona","Unmarried",2022,35302
+"99","Arizona","Not Reported",2017,108
+"100","Arizona","Not Reported",2018,116
+"101","Arizona","Not Reported",2019,107
+"102","Arizona","Not Reported",2020,110
+"103","Arizona","Not Reported",2021,141
+"104","Arizona","Not Reported",2022,172
+"105","Arkansas","Married",2007,23407
+"106","Arkansas","Married",2008,22511
+"107","Arkansas","Married",2009,21704
+"108","Arkansas","Married",2010,21075
+"109","Arkansas","Married",2011,21345
+"110","Arkansas","Married",2012,21022
+"111","Arkansas","Married",2013,20798
+"112","Arkansas","Married",2014,21586
+"113","Arkansas","Married",2015,21384
+"114","Arkansas","Married",2016,21238
+"115","Arkansas","Married",2017,20441
+"116","Arkansas","Married",2018,20217
+"117","Arkansas","Married",2019,19451
+"118","Arkansas","Married",2020,18753
+"119","Arkansas","Married",2021,19305
+"120","Arkansas","Married",2022,19406
+"121","Arkansas","Unmarried",2007,17971
+"122","Arkansas","Unmarried",2008,18158
+"123","Arkansas","Unmarried",2009,18104
+"124","Arkansas","Unmarried",2010,17465
+"125","Arkansas","Unmarried",2011,17370
+"126","Arkansas","Unmarried",2012,17325
+"127","Arkansas","Unmarried",2013,17034
+"128","Arkansas","Unmarried",2014,16925
+"129","Arkansas","Unmarried",2015,17502
+"130","Arkansas","Unmarried",2016,17036
+"131","Arkansas","Unmarried",2017,17072
+"132","Arkansas","Unmarried",2018,16795
+"133","Arkansas","Unmarried",2019,17107
+"134","Arkansas","Unmarried",2020,16495
+"135","Arkansas","Unmarried",2021,16654
+"136","Arkansas","Unmarried",2022,16041
+"137","Arkansas","Not Reported",2022,24
+"138","California","Married",2007,346151
+"139","California","Married",2008,330211
+"140","California","Married",2009,313115
+"141","California","Married",2010,303625
+"142","California","Married",2011,299431
+"143","California","Married",2012,301729
+"144","California","Married",2013,298406
+"145","California","Married",2014,307919
+"146","California","Married",2015,300758
+"147","California","Married",2016,301976
+"148","California","Married",2017,686
+"149","California","Unmarried",2007,220263
+"150","California","Unmarried",2008,221568
+"151","California","Unmarried",2009,213905
+"152","California","Unmarried",2010,206573
+"153","California","Unmarried",2011,202689
+"154","California","Unmarried",2012,202026
+"155","California","Unmarried",2013,196299
+"156","California","Unmarried",2014,194960
+"157","California","Unmarried",2015,190990
+"158","California","Unmarried",2016,186851
+"159","California","Unmarried",2017,435
+"160","California","Not Reported",2017,470537
+"161","California","Not Reported",2018,454920
+"162","California","Not Reported",2019,446479
+"163","California","Not Reported",2020,420259
+"164","California","Not Reported",2021,420608
+"165","California","Not Reported",2022,419104
+"166","Colorado","Married",2007,52799
+"167","Colorado","Married",2008,52587
+"168","Colorado","Married",2009,51554
+"169","Colorado","Married",2010,50485
+"170","Colorado","Married",2011,49652
+"171","Colorado","Married",2012,50167
+"172","Colorado","Married",2013,50002
+"173","Colorado","Married",2014,51082
+"174","Colorado","Married",2015,51445
+"175","Colorado","Married",2016,51632
+"176","Colorado","Married",2017,49846
+"177","Colorado","Married",2018,48271
+"178","Colorado","Married",2019,48143
+"179","Colorado","Married",2020,47213
+"180","Colorado","Married",2021,48554
+"181","Colorado","Married",2022,47813
+"182","Colorado","Unmarried",2007,18010
+"183","Colorado","Unmarried",2008,17444
+"184","Colorado","Unmarried",2009,17074
+"185","Colorado","Unmarried",2010,15870
+"186","Colorado","Unmarried",2011,15403
+"187","Colorado","Unmarried",2012,15020
+"188","Colorado","Unmarried",2013,15005
+"189","Colorado","Unmarried",2014,14748
+"190","Colorado","Unmarried",2015,15136
+"191","Colorado","Unmarried",2016,14981
+"192","Colorado","Unmarried",2017,14514
+"193","Colorado","Unmarried",2018,14598
+"194","Colorado","Unmarried",2019,14705
+"195","Colorado","Unmarried",2020,14262
+"196","Colorado","Unmarried",2021,14371
+"197","Colorado","Unmarried",2022,14529
+"198","Colorado","Not Reported",2017,22
+"199","Colorado","Not Reported",2018,16
+"200","Colorado","Not Reported",2019,21
+"201","Colorado","Not Reported",2020,19
+"202","Colorado","Not Reported",2021,24
+"203","Colorado","Not Reported",2022,41
+"204","Connecticut","Married",2007,27052
+"205","Connecticut","Married",2008,25678
+"206","Connecticut","Married",2009,24291
+"207","Connecticut","Married",2010,23596
+"208","Connecticut","Married",2011,23104
+"209","Connecticut","Married",2012,22684
+"210","Connecticut","Married",2013,22317
+"211","Connecticut","Married",2014,22808
+"212","Connecticut","Married",2015,22336
+"213","Connecticut","Married",2016,22727
+"214","Connecticut","Married",2017,22331
+"215","Connecticut","Married",2018,21842
+"216","Connecticut","Married",2019,21655
+"217","Connecticut","Married",2020,20704
+"218","Connecticut","Married",2021,22297
+"219","Connecticut","Married",2022,22215
+"220","Connecticut","Unmarried",2007,14608
+"221","Connecticut","Unmarried",2008,14721
+"222","Connecticut","Unmarried",2009,14605
+"223","Connecticut","Unmarried",2010,14112
+"224","Connecticut","Unmarried",2011,14177
+"225","Connecticut","Unmarried",2012,13855
+"226","Connecticut","Unmarried",2013,13768
+"227","Connecticut","Unmarried",2014,13477
+"228","Connecticut","Unmarried",2015,13410
+"229","Connecticut","Unmarried",2016,13288
+"230","Connecticut","Unmarried",2017,12886
+"231","Connecticut","Unmarried",2018,12878
+"232","Connecticut","Unmarried",2019,12602
+"233","Connecticut","Unmarried",2020,12754
+"234","Connecticut","Unmarried",2021,13366
+"235","Connecticut","Unmarried",2022,13106
+"236","Connecticut","Not Reported",2022,11
+"237","Delaware","Married",2007,6471
+"238","Delaware","Married",2008,6283
+"239","Delaware","Married",2009,6046
+"240","Delaware","Married",2010,5977
+"241","Delaware","Married",2011,5788
+"242","Delaware","Married",2012,5803
+"243","Delaware","Married",2013,5651
+"244","Delaware","Married",2014,5856
+"245","Delaware","Married",2015,5995
+"246","Delaware","Married",2016,5955
+"247","Delaware","Married",2017,5686
+"248","Delaware","Married",2018,5634
+"249","Delaware","Married",2019,5585
+"250","Delaware","Married",2020,5392
+"251","Delaware","Married",2021,5539
+"252","Delaware","Married",2022,5696
+"253","Delaware","Unmarried",2007,5699
+"254","Delaware","Unmarried",2008,5807
+"255","Delaware","Unmarried",2009,5513
+"256","Delaware","Unmarried",2010,5387
+"257","Delaware","Unmarried",2011,5469
+"258","Delaware","Unmarried",2012,5220
+"259","Delaware","Unmarried",2013,5180
+"260","Delaware","Unmarried",2014,5116
+"261","Delaware","Unmarried",2015,5171
+"262","Delaware","Unmarried",2016,5037
+"263","Delaware","Unmarried",2017,5168
+"264","Delaware","Unmarried",2018,4987
+"265","Delaware","Unmarried",2019,4974
+"266","Delaware","Unmarried",2020,4996
+"267","Delaware","Unmarried",2021,4936
+"268","Delaware","Unmarried",2022,5118
+"269","District of Columbia","Married",2007,3680
+"270","District of Columbia","Married",2008,3851
+"271","District of Columbia","Married",2009,3993
+"272","District of Columbia","Married",2010,4146
+"273","District of Columbia","Married",2011,4316
+"274","District of Columbia","Married",2012,4596
+"275","District of Columbia","Married",2013,4573
+"276","District of Columbia","Married",2014,4738
+"277","District of Columbia","Married",2015,4857
+"278","District of Columbia","Married",2016,5087
+"279","District of Columbia","Married",2017,4986
+"280","District of Columbia","Married",2018,4926
+"281","District of Columbia","Married",2019,4874
+"282","District of Columbia","Married",2020,4727
+"283","District of Columbia","Married",2021,4879
+"284","District of Columbia","Married",2022,4308
+"285","District of Columbia","Unmarried",2007,5184
+"286","District of Columbia","Unmarried",2008,5279
+"287","District of Columbia","Unmarried",2009,5047
+"288","District of Columbia","Unmarried",2010,5019
+"289","District of Columbia","Unmarried",2011,4979
+"290","District of Columbia","Unmarried",2012,4803
+"291","District of Columbia","Unmarried",2013,4715
+"292","District of Columbia","Unmarried",2014,4771
+"293","District of Columbia","Unmarried",2015,4721
+"294","District of Columbia","Unmarried",2016,4771
+"295","District of Columbia","Unmarried",2017,4567
+"296","District of Columbia","Unmarried",2018,4283
+"297","District of Columbia","Unmarried",2019,4204
+"298","District of Columbia","Unmarried",2020,4143
+"299","District of Columbia","Unmarried",2021,3779
+"300","District of Columbia","Unmarried",2022,3763
+"301","Florida","Married",2007,128887
+"302","Florida","Married",2008,122909
+"303","Florida","Married",2009,115747
+"304","Florida","Married",2010,112762
+"305","Florida","Married",2011,111869
+"306","Florida","Married",2012,110987
+"307","Florida","Married",2013,112021
+"308","Florida","Married",2014,114569
+"309","Florida","Married",2015,117144
+"310","Florida","Married",2016,119485
+"311","Florida","Married",2017,118553
+"312","Florida","Married",2018,118750
+"313","Florida","Married",2019,117419
+"314","Florida","Married",2020,110572
+"315","Florida","Married",2021,115592
+"316","Florida","Married",2022,120816
+"317","Florida","Unmarried",2007,110278
+"318","Florida","Unmarried",2008,108536
+"319","Florida","Unmarried",2009,105647
+"320","Florida","Unmarried",2010,101828
+"321","Florida","Unmarried",2011,101545
+"322","Florida","Unmarried",2012,102161
+"323","Florida","Unmarried",2013,103386
+"324","Florida","Unmarried",2014,105422
+"325","Florida","Unmarried",2015,107125
+"326","Florida","Unmarried",2016,105537
+"327","Florida","Unmarried",2017,105023
+"328","Florida","Unmarried",2018,102751
+"329","Florida","Unmarried",2019,102543
+"330","Florida","Unmarried",2020,99043
+"331","Florida","Unmarried",2021,100617
+"332","Florida","Unmarried",2022,103570
+"333","Florida","Not Reported",2017,54
+"334","Florida","Not Reported",2018,41
+"335","Florida","Not Reported",2019,40
+"336","Florida","Not Reported",2020,56
+"337","Florida","Not Reported",2021,51
+"338","Florida","Not Reported",2022,47
+"339","Georgia","Married",2007,85214
+"340","Georgia","Married",2008,80000
+"341","Georgia","Married",2009,77087
+"342","Georgia","Married",2010,72548
+"343","Georgia","Married",2011,72240
+"344","Georgia","Married",2012,71432
+"345","Georgia","Married",2013,70301
+"346","Georgia","Married",2014,71531
+"347","Georgia","Married",2015,72017
+"348","Georgia","Married",2016,71647
+"349","Georgia","Married",2017,71166
+"350","Georgia","Married",2018,69192
+"351","Georgia","Married",2019,68700
+"352","Georgia","Married",2020,65784
+"353","Georgia","Married",2021,67040
+"354","Georgia","Married",2022,68698
+"355","Georgia","Unmarried",2007,65923
+"356","Georgia","Unmarried",2008,66603
+"357","Georgia","Unmarried",2009,64290
+"358","Georgia","Unmarried",2010,61399
+"359","Georgia","Unmarried",2011,60169
+"360","Georgia","Unmarried",2012,58848
+"361","Georgia","Unmarried",2013,58447
+"362","Georgia","Unmarried",2014,59415
+"363","Georgia","Unmarried",2015,59387
+"364","Georgia","Unmarried",2016,58395
+"365","Georgia","Unmarried",2017,58060
+"366","Georgia","Unmarried",2018,56966
+"367","Georgia","Unmarried",2019,57656
+"368","Georgia","Unmarried",2020,56672
+"369","Georgia","Unmarried",2021,57025
+"370","Georgia","Unmarried",2022,57417
+"371","Georgia","Not Reported",2017,17
+"372","Georgia","Not Reported",2018,14
+"373","Georgia","Not Reported",2019,15
+"374","Georgia","Not Reported",2020,17
+"375","Georgia","Not Reported",2022,15
+"376","Hawaii","Married",2007,12072
+"377","Hawaii","Married",2008,12092
+"378","Hawaii","Married",2009,11733
+"379","Hawaii","Married",2010,11815
+"380","Hawaii","Married",2011,11852
+"381","Hawaii","Married",2012,11860
+"382","Hawaii","Married",2013,11909
+"383","Hawaii","Married",2014,11664
+"384","Hawaii","Married",2015,11582
+"385","Hawaii","Married",2016,11379
+"386","Hawaii","Married",2017,10734
+"387","Hawaii","Married",2018,10481
+"388","Hawaii","Married",2019,10347
+"389","Hawaii","Married",2020,9548
+"390","Hawaii","Married",2021,9483
+"391","Hawaii","Married",2022,9363
+"392","Hawaii","Unmarried",2007,7062
+"393","Hawaii","Unmarried",2008,7392
+"394","Hawaii","Unmarried",2009,7154
+"395","Hawaii","Unmarried",2010,7173
+"396","Hawaii","Unmarried",2011,7104
+"397","Hawaii","Unmarried",2012,7120
+"398","Hawaii","Unmarried",2013,7078
+"399","Hawaii","Unmarried",2014,6886
+"400","Hawaii","Unmarried",2015,6838
+"401","Hawaii","Unmarried",2016,6680
+"402","Hawaii","Unmarried",2017,6764
+"403","Hawaii","Unmarried",2018,6468
+"404","Hawaii","Unmarried",2019,6444
+"405","Hawaii","Unmarried",2020,6223
+"406","Hawaii","Unmarried",2021,6119
+"407","Hawaii","Unmarried",2022,6146
+"408","Hawaii","Not Reported",2017,19
+"409","Hawaii","Not Reported",2018,23
+"410","Hawaii","Not Reported",2020,14
+"411","Hawaii","Not Reported",2021,18
+"412","Hawaii","Not Reported",2022,26
+"413","Idaho","Married",2007,18647
+"414","Idaho","Married",2008,18779
+"415","Idaho","Married",2009,17645
+"416","Idaho","Married",2010,17040
+"417","Idaho","Married",2011,16337
+"418","Idaho","Married",2012,16672
+"419","Idaho","Married",2013,16320
+"420","Idaho","Married",2014,16509
+"421","Idaho","Married",2015,16495
+"422","Idaho","Married",2016,16276
+"423","Idaho","Married",2017,15940
+"424","Idaho","Married",2018,15617
+"425","Idaho","Married",2019,16058
+"426","Idaho","Married",2020,15548
+"427","Idaho","Married",2021,16305
+"428","Idaho","Married",2022,16463
+"429","Idaho","Unmarried",2007,6372
+"430","Idaho","Unmarried",2008,6370
+"431","Idaho","Unmarried",2009,6092
+"432","Idaho","Unmarried",2010,6158
+"433","Idaho","Unmarried",2011,5968
+"434","Idaho","Unmarried",2012,6291
+"435","Idaho","Unmarried",2013,6063
+"436","Idaho","Unmarried",2014,6367
+"437","Idaho","Unmarried",2015,6332
+"438","Idaho","Unmarried",2016,6206
+"439","Idaho","Unmarried",2017,6229
+"440","Idaho","Unmarried",2018,5777
+"441","Idaho","Unmarried",2019,5984
+"442","Idaho","Unmarried",2020,5975
+"443","Idaho","Unmarried",2021,6106
+"444","Idaho","Unmarried",2022,5909
+"445","Idaho","Not Reported",2017,12
+"446","Idaho","Not Reported",2019,21
+"447","Idaho","Not Reported",2020,10
+"448","Idaho","Not Reported",2021,16
+"449","Idaho","Not Reported",2022,19
+"450","Illinois","Married",2007,108329
+"451","Illinois","Married",2008,104863
+"452","Illinois","Married",2009,101380
+"453","Illinois","Married",2010,98293
+"454","Illinois","Married",2011,96811
+"455","Illinois","Married",2012,94863
+"456","Illinois","Married",2013,93599
+"457","Illinois","Married",2014,95001
+"458","Illinois","Married",2015,94169
+"459","Illinois","Married",2016,93153
+"460","Illinois","Married",2017,89978
+"461","Illinois","Married",2018,87845
+"462","Illinois","Married",2019,84773
+"463","Illinois","Married",2020,79269
+"464","Illinois","Married",2021,79905
+"465","Illinois","Married",2022,77794
+"466","Illinois","Unmarried",2007,72507
+"467","Illinois","Unmarried",2008,71932
+"468","Illinois","Unmarried",2009,69783
+"469","Illinois","Unmarried",2010,66907
+"470","Illinois","Unmarried",2011,64501
+"471","Illinois","Unmarried",2012,64297
+"472","Illinois","Unmarried",2013,63332
+"473","Illinois","Unmarried",2014,63555
+"474","Illinois","Unmarried",2015,63947
+"475","Illinois","Unmarried",2016,61292
+"476","Illinois","Unmarried",2017,59396
+"477","Illinois","Unmarried",2018,56946
+"478","Illinois","Unmarried",2019,55336
+"479","Illinois","Unmarried",2020,54022
+"480","Illinois","Unmarried",2021,52263
+"481","Illinois","Unmarried",2022,50535
+"482","Illinois","Not Reported",2017,16
+"483","Illinois","Not Reported",2018,24
+"484","Illinois","Not Reported",2019,19
+"485","Illinois","Not Reported",2021,21
+"486","Illinois","Not Reported",2022,21
+"487","Indiana","Married",2007,51727
+"488","Indiana","Married",2008,50298
+"489","Indiana","Married",2009,48672
+"490","Indiana","Married",2010,47813
+"491","Indiana","Married",2011,47927
+"492","Indiana","Married",2012,47279
+"493","Indiana","Married",2013,47125
+"494","Indiana","Married",2014,47671
+"495","Indiana","Married",2015,47691
+"496","Indiana","Married",2016,47643
+"497","Indiana","Married",2017,47022
+"498","Indiana","Married",2018,46336
+"499","Indiana","Married",2019,45672
+"500","Indiana","Married",2020,44318
+"501","Indiana","Married",2021,45571
+"502","Indiana","Married",2022,45749
+"503","Indiana","Unmarried",2007,38137
+"504","Indiana","Unmarried",2008,38444
+"505","Indiana","Unmarried",2009,38001
+"506","Indiana","Unmarried",2010,36127
+"507","Indiana","Unmarried",2011,35774
+"508","Indiana","Unmarried",2012,35948
+"509","Indiana","Unmarried",2013,35977
+"510","Indiana","Unmarried",2014,36409
+"511","Indiana","Unmarried",2015,36349
+"512","Indiana","Unmarried",2016,35448
+"513","Indiana","Unmarried",2017,35142
+"514","Indiana","Unmarried",2018,35303
+"515","Indiana","Unmarried",2019,35180
+"516","Indiana","Unmarried",2020,34289
+"517","Indiana","Unmarried",2021,34368
+"518","Indiana","Unmarried",2022,33891
+"519","Iowa","Married",2007,26861
+"520","Iowa","Married",2008,26084
+"521","Iowa","Married",2009,25724
+"522","Iowa","Married",2010,25461
+"523","Iowa","Married",2011,25291
+"524","Iowa","Married",2012,25246
+"525","Iowa","Married",2013,25635
+"526","Iowa","Married",2014,25738
+"527","Iowa","Married",2015,25531
+"528","Iowa","Married",2016,25602
+"529","Iowa","Married",2017,24821
+"530","Iowa","Married",2018,24593
+"531","Iowa","Married",2019,24450
+"532","Iowa","Married",2020,22994
+"533","Iowa","Married",2021,23887
+"534","Iowa","Married",2022,23668
+"535","Iowa","Unmarried",2007,14025
+"536","Iowa","Unmarried",2008,14140
+"537","Iowa","Unmarried",2009,13977
+"538","Iowa","Unmarried",2010,13258
+"539","Iowa","Unmarried",2011,12923
+"540","Iowa","Unmarried",2012,13456
+"541","Iowa","Unmarried",2013,13459
+"542","Iowa","Unmarried",2014,13949
+"543","Iowa","Unmarried",2015,13951
+"544","Iowa","Unmarried",2016,13801
+"545","Iowa","Unmarried",2017,13605
+"546","Iowa","Unmarried",2018,13191
+"547","Iowa","Unmarried",2019,13196
+"548","Iowa","Unmarried",2020,13114
+"549","Iowa","Unmarried",2021,12939
+"550","Iowa","Unmarried",2022,12835
+"551","Kansas","Married",2007,26677
+"552","Kansas","Married",2008,26041
+"553","Kansas","Married",2009,25704
+"554","Kansas","Married",2010,25303
+"555","Kansas","Married",2011,24851
+"556","Kansas","Married",2012,25528
+"557","Kansas","Married",2013,24771
+"558","Kansas","Married",2014,24925
+"559","Kansas","Married",2015,25039
+"560","Kansas","Married",2016,24357
+"561","Kansas","Married",2017,23485
+"562","Kansas","Married",2018,23068
+"563","Kansas","Married",2019,22506
+"564","Kansas","Married",2020,21706
+"565","Kansas","Married",2021,22249
+"566","Kansas","Married",2022,22022
+"567","Kansas","Unmarried",2007,15327
+"568","Kansas","Unmarried",2008,15792
+"569","Kansas","Unmarried",2009,15692
+"570","Kansas","Unmarried",2010,15346
+"571","Kansas","Unmarried",2011,14791
+"572","Kansas","Unmarried",2012,14813
+"573","Kansas","Unmarried",2013,14068
+"574","Kansas","Unmarried",2014,14298
+"575","Kansas","Unmarried",2015,14115
+"576","Kansas","Unmarried",2016,13696
+"577","Kansas","Unmarried",2017,13024
+"578","Kansas","Unmarried",2018,13187
+"579","Kansas","Unmarried",2019,12883
+"580","Kansas","Unmarried",2020,12664
+"581","Kansas","Unmarried",2021,12451
+"582","Kansas","Unmarried",2022,12371
+"583","Kansas","Not Reported",2017,10
+"584","Kentucky","Married",2007,36053
+"585","Kentucky","Married",2008,34588
+"586","Kentucky","Married",2009,33794
+"587","Kentucky","Married",2010,32818
+"588","Kentucky","Married",2011,32400
+"589","Kentucky","Married",2012,32770
+"590","Kentucky","Married",2013,32344
+"591","Kentucky","Married",2014,32625
+"592","Kentucky","Married",2015,32676
+"593","Kentucky","Married",2016,32516
+"594","Kentucky","Married",2017,31993
+"595","Kentucky","Married",2018,31302
+"596","Kentucky","Married",2019,30636
+"597","Kentucky","Married",2020,29420
+"598","Kentucky","Married",2021,29930
+"599","Kentucky","Married",2022,30100
+"600","Kentucky","Unmarried",2007,23315
+"601","Kentucky","Unmarried",2008,23787
+"602","Kentucky","Unmarried",2009,23757
+"603","Kentucky","Unmarried",2010,22966
+"604","Kentucky","Unmarried",2011,22970
+"605","Kentucky","Unmarried",2012,22988
+"606","Kentucky","Unmarried",2013,23342
+"607","Kentucky","Unmarried",2014,23545
+"608","Kentucky","Unmarried",2015,23295
+"609","Kentucky","Unmarried",2016,22933
+"610","Kentucky","Unmarried",2017,22752
+"611","Kentucky","Unmarried",2018,22616
+"612","Kentucky","Unmarried",2019,22427
+"613","Kentucky","Unmarried",2020,22245
+"614","Kentucky","Unmarried",2021,22281
+"615","Kentucky","Unmarried",2022,22213
+"616","Louisiana","Married",2007,32192
+"617","Louisiana","Married",2008,30692
+"618","Louisiana","Married",2009,30164
+"619","Louisiana","Married",2010,29110
+"620","Louisiana","Married",2011,29125
+"621","Louisiana","Married",2012,29333
+"622","Louisiana","Married",2013,29697
+"623","Louisiana","Married",2014,30491
+"624","Louisiana","Married",2015,30483
+"625","Louisiana","Married",2016,30295
+"626","Louisiana","Married",2017,28832
+"627","Louisiana","Married",2018,27835
+"628","Louisiana","Married",2019,27135
+"629","Louisiana","Married",2020,26061
+"630","Louisiana","Married",2021,26100
+"631","Louisiana","Married",2022,25577
+"632","Louisiana","Unmarried",2007,34109
+"633","Louisiana","Unmarried",2008,34576
+"634","Louisiana","Unmarried",2009,34809
+"635","Louisiana","Unmarried",2010,33269
+"636","Louisiana","Unmarried",2011,32763
+"637","Louisiana","Unmarried",2012,33309
+"638","Louisiana","Unmarried",2013,33504
+"639","Louisiana","Unmarried",2014,34006
+"640","Louisiana","Unmarried",2015,34209
+"641","Louisiana","Unmarried",2016,32883
+"642","Louisiana","Unmarried",2017,32175
+"643","Louisiana","Unmarried",2018,31775
+"644","Louisiana","Unmarried",2019,31799
+"645","Louisiana","Unmarried",2020,31261
+"646","Louisiana","Unmarried",2021,31329
+"647","Louisiana","Unmarried",2022,30892
+"648","Louisiana","Not Reported",2017,11
+"649","Louisiana","Not Reported",2022,10
+"650","Maine","Married",2007,8600
+"651","Maine","Married",2008,8203
+"652","Maine","Married",2009,8004
+"653","Maine","Married",2010,7629
+"654","Maine","Married",2011,7395
+"655","Maine","Married",2012,7481
+"656","Maine","Married",2013,7539
+"657","Maine","Married",2014,7462
+"658","Maine","Married",2015,7503
+"659","Maine","Married",2016,7658
+"660","Maine","Married",2017,7503
+"661","Maine","Married",2018,7528
+"662","Maine","Married",2019,7263
+"663","Maine","Married",2020,7105
+"664","Maine","Married",2021,7545
+"665","Maine","Married",2022,7737
+"666","Maine","Unmarried",2007,5520
+"667","Maine","Unmarried",2008,5406
+"668","Maine","Unmarried",2009,5466
+"669","Maine","Unmarried",2010,5341
+"670","Maine","Unmarried",2011,5309
+"671","Maine","Unmarried",2012,5317
+"672","Maine","Unmarried",2013,5237
+"673","Maine","Unmarried",2014,5236
+"674","Maine","Unmarried",2015,5104
+"675","Maine","Unmarried",2016,5047
+"676","Maine","Unmarried",2017,4795
+"677","Maine","Unmarried",2018,4780
+"678","Maine","Unmarried",2019,4516
+"679","Maine","Unmarried",2020,4433
+"680","Maine","Unmarried",2021,4461
+"681","Maine","Unmarried",2022,4355
+"682","Maryland","Married",2007,46122
+"683","Maryland","Married",2008,44547
+"684","Maryland","Married",2009,42982
+"685","Maryland","Married",2010,42908
+"686","Maryland","Married",2011,43002
+"687","Maryland","Married",2012,43179
+"688","Maryland","Married",2013,42908
+"689","Maryland","Married",2014,44549
+"690","Maryland","Married",2015,44094
+"691","Maryland","Married",2016,44130
+"692","Maryland","Married",2017,43276
+"693","Maryland","Married",2018,43174
+"694","Maryland","Married",2019,41762
+"695","Maryland","Married",2020,40604
+"696","Maryland","Married",2021,40472
+"697","Maryland","Married",2022,40791
+"698","Maryland","Unmarried",2007,31973
+"699","Maryland","Unmarried",2008,32742
+"700","Maryland","Unmarried",2009,32077
+"701","Maryland","Unmarried",2010,30893
+"702","Maryland","Unmarried",2011,30091
+"703","Maryland","Unmarried",2012,29704
+"704","Maryland","Unmarried",2013,29045
+"705","Maryland","Unmarried",2014,29372
+"706","Maryland","Unmarried",2015,29522
+"707","Maryland","Unmarried",2016,29006
+"708","Maryland","Unmarried",2017,28352
+"709","Maryland","Unmarried",2018,27895
+"710","Maryland","Unmarried",2019,28398
+"711","Maryland","Unmarried",2020,27940
+"712","Maryland","Unmarried",2021,27803
+"713","Maryland","Unmarried",2022,27979
+"714","Maryland","Not Reported",2017,13
+"715","Maryland","Not Reported",2018,11
+"716","Maryland","Not Reported",2019,18
+"717","Maryland","Not Reported",2020,10
+"718","Maryland","Not Reported",2021,10
+"719","Maryland","Not Reported",2022,12
+"720","Massachusetts","Married",2007,51945
+"721","Massachusetts","Married",2008,50831
+"722","Massachusetts","Married",2009,48958
+"723","Massachusetts","Married",2010,47607
+"724","Massachusetts","Married",2011,47807
+"725","Massachusetts","Married",2012,47522
+"726","Massachusetts","Married",2013,47761
+"727","Massachusetts","Married",2014,48036
+"728","Massachusetts","Married",2015,47592
+"729","Massachusetts","Married",2016,47782
+"730","Massachusetts","Married",2017,47356
+"731","Massachusetts","Married",2018,46644
+"732","Massachusetts","Married",2019,46720
+"733","Massachusetts","Married",2020,44520
+"734","Massachusetts","Married",2021,46567
+"735","Massachusetts","Married",2022,46126
+"736","Massachusetts","Unmarried",2007,26022
+"737","Massachusetts","Unmarried",2008,26191
+"738","Massachusetts","Unmarried",2009,26058
+"739","Massachusetts","Unmarried",2010,25258
+"740","Massachusetts","Unmarried",2011,25359
+"741","Massachusetts","Unmarried",2012,24917
+"742","Massachusetts","Unmarried",2013,24027
+"743","Massachusetts","Unmarried",2014,23872
+"744","Massachusetts","Unmarried",2015,23900
+"745","Massachusetts","Unmarried",2016,23535
+"746","Massachusetts","Unmarried",2017,23338
+"747","Massachusetts","Unmarried",2018,22453
+"748","Massachusetts","Unmarried",2019,22386
+"749","Massachusetts","Unmarried",2020,21897
+"750","Massachusetts","Unmarried",2021,22559
+"751","Massachusetts","Unmarried",2022,22449
+"752","Massachusetts","Not Reported",2018,12
+"753","Massachusetts","Not Reported",2019,11
+"754","Massachusetts","Not Reported",2020,11
+"755","Massachusetts","Not Reported",2021,11
+"756","Michigan","Married",2007,75919
+"757","Michigan","Married",2008,72465
+"758","Michigan","Married",2009,68889
+"759","Michigan","Married",2010,66612
+"760","Michigan","Married",2011,65770
+"761","Michigan","Married",2012,65296
+"762","Michigan","Married",2013,65360
+"763","Michigan","Married",2014,66558
+"764","Michigan","Married",2015,65780
+"765","Michigan","Married",2016,66815
+"766","Michigan","Married",2017,65640
+"767","Michigan","Married",2018,65136
+"768","Michigan","Married",2019,63667
+"769","Michigan","Married",2020,61147
+"770","Michigan","Married",2021,62643
+"771","Michigan","Married",2022,62004
+"772","Michigan","Unmarried",2007,49342
+"773","Michigan","Unmarried",2008,48662
+"774","Michigan","Unmarried",2009,48405
+"775","Michigan","Unmarried",2010,47919
+"776","Michigan","Unmarried",2011,48238
+"777","Michigan","Unmarried",2012,47795
+"778","Michigan","Unmarried",2013,48129
+"779","Michigan","Unmarried",2014,47817
+"780","Michigan","Unmarried",2015,47532
+"781","Michigan","Unmarried",2016,46500
+"782","Michigan","Unmarried",2017,45775
+"783","Michigan","Unmarried",2018,44882
+"784","Michigan","Unmarried",2019,44205
+"785","Michigan","Unmarried",2020,42916
+"786","Michigan","Unmarried",2021,42323
+"787","Michigan","Unmarried",2022,40306
+"788","Michigan","Not Reported",2017,11
+"789","Michigan","Not Reported",2018,14
+"790","Michigan","Not Reported",2019,14
+"791","Michigan","Not Reported",2020,11
+"792","Michigan","Not Reported",2021,14
+"793","Michigan","Not Reported",2022,11
+"794","Minnesota","Married",2007,49601
+"795","Minnesota","Married",2008,48272
+"796","Minnesota","Married",2009,46944
+"797","Minnesota","Married",2010,45865
+"798","Minnesota","Married",2011,46014
+"799","Minnesota","Married",2012,45989
+"800","Minnesota","Married",2013,46404
+"801","Minnesota","Married",2014,47294
+"802","Minnesota","Married",2015,47352
+"803","Minnesota","Married",2016,47262
+"804","Minnesota","Married",2017,46660
+"805","Minnesota","Married",2018,45877
+"806","Minnesota","Married",2019,44896
+"807","Minnesota","Married",2020,42723
+"808","Minnesota","Married",2021,43914
+"809","Minnesota","Married",2022,43420
+"810","Minnesota","Unmarried",2007,24134
+"811","Minnesota","Unmarried",2008,24149
+"812","Minnesota","Unmarried",2009,23702
+"813","Minnesota","Unmarried",2010,22745
+"814","Minnesota","Unmarried",2011,22395
+"815","Minnesota","Unmarried",2012,22783
+"816","Minnesota","Unmarried",2013,22755
+"817","Minnesota","Unmarried",2014,22610
+"818","Minnesota","Unmarried",2015,22482
+"819","Minnesota","Unmarried",2016,22487
+"820","Minnesota","Unmarried",2017,21920
+"821","Minnesota","Unmarried",2018,21463
+"822","Minnesota","Unmarried",2019,21124
+"823","Minnesota","Unmarried",2020,20714
+"824","Minnesota","Unmarried",2021,20509
+"825","Minnesota","Unmarried",2022,20587
+"826","Minnesota","Not Reported",2017,15
+"827","Mississippi","Married",2007,21508
+"828","Mississippi","Married",2008,20461
+"829","Mississippi","Married",2009,19191
+"830","Mississippi","Married",2010,18109
+"831","Mississippi","Married",2011,18157
+"832","Mississippi","Married",2012,17505
+"833","Mississippi","Married",2013,17593
+"834","Mississippi","Married",2014,17801
+"835","Mississippi","Married",2015,17851
+"836","Mississippi","Married",2016,17755
+"837","Mississippi","Married",2017,17353
+"838","Mississippi","Married",2018,16994
+"839","Mississippi","Married",2019,16527
+"840","Mississippi","Married",2020,15677
+"841","Mississippi","Married",2021,15903
+"842","Mississippi","Married",2022,15832
+"843","Mississippi","Unmarried",2007,24983
+"844","Mississippi","Unmarried",2008,24486
+"845","Mississippi","Unmarried",2009,23710
+"846","Mississippi","Unmarried",2010,21927
+"847","Mississippi","Unmarried",2011,21703
+"848","Mississippi","Unmarried",2012,21164
+"849","Mississippi","Unmarried",2013,21041
+"850","Mississippi","Unmarried",2014,20935
+"851","Mississippi","Unmarried",2015,20543
+"852","Mississippi","Unmarried",2016,20173
+"853","Mississippi","Unmarried",2017,19995
+"854","Mississippi","Unmarried",2018,20003
+"855","Mississippi","Unmarried",2019,20104
+"856","Mississippi","Unmarried",2020,19792
+"857","Mississippi","Unmarried",2021,19248
+"858","Mississippi","Unmarried",2022,18840
+"859","Missouri","Married",2007,48714
+"860","Missouri","Married",2008,47876
+"861","Missouri","Married",2009,46650
+"862","Missouri","Married",2010,45923
+"863","Missouri","Married",2011,45609
+"864","Missouri","Married",2012,45143
+"865","Missouri","Married",2013,44924
+"866","Missouri","Married",2014,45068
+"867","Missouri","Married",2015,44716
+"868","Missouri","Married",2016,44952
+"869","Missouri","Married",2017,43866
+"870","Missouri","Married",2018,43748
+"871","Missouri","Married",2019,42995
+"872","Missouri","Married",2020,40767
+"873","Missouri","Married",2021,41742
+"874","Missouri","Married",2022,41996
+"875","Missouri","Unmarried",2007,33216
+"876","Missouri","Unmarried",2008,33087
+"877","Missouri","Unmarried",2009,32255
+"878","Missouri","Unmarried",2010,30836
+"879","Missouri","Unmarried",2011,30508
+"880","Missouri","Unmarried",2012,30303
+"881","Missouri","Unmarried",2013,30372
+"882","Missouri","Unmarried",2014,30292
+"883","Missouri","Unmarried",2015,30345
+"884","Missouri","Unmarried",2016,29753
+"885","Missouri","Unmarried",2017,29156
+"886","Missouri","Unmarried",2018,29511
+"887","Missouri","Unmarried",2019,29122
+"888","Missouri","Unmarried",2020,28505
+"889","Missouri","Unmarried",2021,27702
+"890","Missouri","Unmarried",2022,26982
+"891","Missouri","Not Reported",2017,12
+"892","Missouri","Not Reported",2018,10
+"893","Missouri","Not Reported",2019,10
+"894","Missouri","Not Reported",2020,13
+"895","Montana","Married",2007,7979
+"896","Montana","Married",2008,7970
+"897","Montana","Married",2009,7813
+"898","Montana","Married",2010,7670
+"899","Montana","Married",2011,7664
+"900","Montana","Married",2012,7759
+"901","Montana","Married",2013,7742
+"902","Montana","Married",2014,7846
+"903","Montana","Married",2015,8010
+"904","Montana","Married",2016,7816
+"905","Montana","Married",2017,7552
+"906","Montana","Married",2018,7491
+"907","Montana","Married",2019,7219
+"908","Montana","Married",2020,7125
+"909","Montana","Married",2021,7520
+"910","Montana","Married",2022,7644
+"911","Montana","Unmarried",2007,4460
+"912","Montana","Unmarried",2008,4624
+"913","Montana","Unmarried",2009,4444
+"914","Montana","Unmarried",2010,4390
+"915","Montana","Unmarried",2011,4405
+"916","Montana","Unmarried",2012,4359
+"917","Montana","Unmarried",2013,4635
+"918","Montana","Unmarried",2014,4586
+"919","Montana","Unmarried",2015,4573
+"920","Montana","Unmarried",2016,4466
+"921","Montana","Unmarried",2017,4241
+"922","Montana","Unmarried",2018,4016
+"923","Montana","Unmarried",2019,3857
+"924","Montana","Unmarried",2020,3660
+"925","Montana","Unmarried",2021,3707
+"926","Montana","Unmarried",2022,3523
+"927","Nebraska","Married",2007,17941
+"928","Nebraska","Married",2008,17849
+"929","Nebraska","Married",2009,17652
+"930","Nebraska","Married",2010,17215
+"931","Nebraska","Married",2011,17172
+"932","Nebraska","Married",2012,17307
+"933","Nebraska","Married",2013,17407
+"934","Nebraska","Married",2014,17954
+"935","Nebraska","Married",2015,17902
+"936","Nebraska","Married",2016,18006
+"937","Nebraska","Married",2017,17232
+"938","Nebraska","Married",2018,17198
+"939","Nebraska","Married",2019,16417
+"940","Nebraska","Married",2020,16181
+"941","Nebraska","Married",2021,16189
+"942","Nebraska","Married",2022,16050
+"943","Nebraska","Unmarried",2007,8993
+"944","Nebraska","Unmarried",2008,9140
+"945","Nebraska","Unmarried",2009,9284
+"946","Nebraska","Unmarried",2010,8703
+"947","Nebraska","Unmarried",2011,8548
+"948","Nebraska","Unmarried",2012,8635
+"949","Nebraska","Unmarried",2013,8688
+"950","Nebraska","Unmarried",2014,8840
+"951","Nebraska","Unmarried",2015,8777
+"952","Nebraska","Unmarried",2016,8583
+"953","Nebraska","Unmarried",2017,8584
+"954","Nebraska","Unmarried",2018,8289
+"955","Nebraska","Unmarried",2019,8334
+"956","Nebraska","Unmarried",2020,8104
+"957","Nebraska","Unmarried",2021,8414
+"958","Nebraska","Unmarried",2022,8290
+"959","Nevada","Married",2007,23893
+"960","Nevada","Married",2008,22703
+"961","Nevada","Married",2009,21288
+"962","Nevada","Married",2010,20016
+"963","Nevada","Married",2011,19699
+"964","Nevada","Married",2012,19141
+"965","Nevada","Married",2013,19165
+"966","Nevada","Married",2014,19430
+"967","Nevada","Married",2015,19364
+"968","Nevada","Married",2016,18937
+"969","Nevada","Married",2017,18352
+"970","Nevada","Married",2018,18317
+"971","Nevada","Married",2019,18069
+"972","Nevada","Married",2020,17130
+"973","Nevada","Married",2021,16954
+"974","Nevada","Married",2022,17106
+"975","Nevada","Unmarried",2007,17288
+"976","Nevada","Unmarried",2008,16803
+"977","Nevada","Unmarried",2009,16324
+"978","Nevada","Unmarried",2010,15918
+"979","Nevada","Unmarried",2011,15597
+"980","Nevada","Unmarried",2012,15770
+"981","Nevada","Unmarried",2013,15865
+"982","Nevada","Unmarried",2014,16431
+"983","Nevada","Unmarried",2015,16934
+"984","Nevada","Unmarried",2016,17323
+"985","Nevada","Unmarried",2017,17185
+"986","Nevada","Unmarried",2018,17146
+"987","Nevada","Unmarried",2019,16790
+"988","Nevada","Unmarried",2020,16322
+"989","Nevada","Unmarried",2021,16497
+"990","Nevada","Unmarried",2022,15898
+"991","Nevada","Not Reported",2017,219
+"992","Nevada","Not Reported",2018,219
+"993","Nevada","Not Reported",2019,213
+"994","Nevada","Not Reported",2020,201
+"995","Nevada","Not Reported",2021,235
+"996","Nevada","Not Reported",2022,189
+"997","New Hampshire","Married",2007,9715
+"998","New Hampshire","Married",2008,9188
+"999","New Hampshire","Married",2009,8914
+"1000","New Hampshire","Married",2010,8599
+"1001","New Hampshire","Married",2011,8411
+"1002","New Hampshire","Married",2012,8090
+"1003","New Hampshire","Married",2013,8154
+"1004","New Hampshire","Married",2014,8155
+"1005","New Hampshire","Married",2015,8200
+"1006","New Hampshire","Married",2016,8137
+"1007","New Hampshire","Married",2017,8163
+"1008","New Hampshire","Married",2018,8048
+"1009","New Hampshire","Married",2019,8092
+"1010","New Hampshire","Married",2020,8005
+"1011","New Hampshire","Married",2021,8713
+"1012","New Hampshire","Married",2022,8535
+"1013","New Hampshire","Unmarried",2007,4453
+"1014","New Hampshire","Unmarried",2008,4495
+"1015","New Hampshire","Unmarried",2009,4463
+"1016","New Hampshire","Unmarried",2010,4275
+"1017","New Hampshire","Unmarried",2011,4440
+"1018","New Hampshire","Unmarried",2012,4262
+"1019","New Hampshire","Unmarried",2013,4242
+"1020","New Hampshire","Unmarried",2014,4147
+"1021","New Hampshire","Unmarried",2015,4233
+"1022","New Hampshire","Unmarried",2016,4130
+"1023","New Hampshire","Unmarried",2017,3951
+"1024","New Hampshire","Unmarried",2018,3946
+"1025","New Hampshire","Unmarried",2019,3746
+"1026","New Hampshire","Unmarried",2020,3784
+"1027","New Hampshire","Unmarried",2021,3910
+"1028","New Hampshire","Unmarried",2022,3538
+"1029","New Jersey","Married",2007,76189
+"1030","New Jersey","Married",2008,73248
+"1031","New Jersey","Married",2009,71433
+"1032","New Jersey","Married",2010,69092
+"1033","New Jersey","Married",2011,67916
+"1034","New Jersey","Married",2012,66585
+"1035","New Jersey","Married",2013,66065
+"1036","New Jersey","Married",2014,66659
+"1037","New Jersey","Married",2015,66912
+"1038","New Jersey","Married",2016,67143
+"1039","New Jersey","Married",2017,66894
+"1040","New Jersey","Married",2018,67001
+"1041","New Jersey","Married",2019,66158
+"1042","New Jersey","Married",2020,64710
+"1043","New Jersey","Married",2021,67635
+"1044","New Jersey","Married",2022,68499
+"1045","New Jersey","Unmarried",2007,39874
+"1046","New Jersey","Unmarried",2008,39462
+"1047","New Jersey","Unmarried",2009,38898
+"1048","New Jersey","Unmarried",2010,37830
+"1049","New Jersey","Unmarried",2011,37967
+"1050","New Jersey","Unmarried",2012,37645
+"1051","New Jersey","Unmarried",2013,36510
+"1052","New Jersey","Unmarried",2014,36646
+"1053","New Jersey","Unmarried",2015,36215
+"1054","New Jersey","Unmarried",2016,35504
+"1055","New Jersey","Unmarried",2017,34340
+"1056","New Jersey","Unmarried",2018,34204
+"1057","New Jersey","Unmarried",2019,33414
+"1058","New Jersey","Unmarried",2020,33233
+"1059","New Jersey","Unmarried",2021,33843
+"1060","New Jersey","Unmarried",2022,34375
+"1061","New Jersey","Not Reported",2017,16
+"1062","New Jersey","Not Reported",2018,18
+"1063","New Jersey","Not Reported",2019,13
+"1064","New Jersey","Not Reported",2020,11
+"1065","New Jersey","Not Reported",2021,19
+"1066","New Jersey","Not Reported",2022,19
+"1067","New Mexico","Married",2007,14766
+"1068","New Mexico","Married",2008,14220
+"1069","New Mexico","Married",2009,13490
+"1070","New Mexico","Married",2010,13290
+"1071","New Mexico","Married",2011,13295
+"1072","New Mexico","Married",2012,12974
+"1073","New Mexico","Married",2013,12642
+"1074","New Mexico","Married",2014,12694
+"1075","New Mexico","Married",2015,12363
+"1076","New Mexico","Married",2016,12071
+"1077","New Mexico","Married",2017,11472
+"1078","New Mexico","Married",2018,11246
+"1079","New Mexico","Married",2019,11139
+"1080","New Mexico","Married",2020,10245
+"1081","New Mexico","Married",2021,10189
+"1082","New Mexico","Married",2022,10231
+"1083","New Mexico","Unmarried",2007,15850
+"1084","New Mexico","Unmarried",2008,15953
+"1085","New Mexico","Unmarried",2009,15510
+"1086","New Mexico","Unmarried",2010,14560
+"1087","New Mexico","Unmarried",2011,13994
+"1088","New Mexico","Unmarried",2012,14094
+"1089","New Mexico","Unmarried",2013,13712
+"1090","New Mexico","Unmarried",2014,13358
+"1091","New Mexico","Unmarried",2015,13453
+"1092","New Mexico","Unmarried",2016,12621
+"1093","New Mexico","Unmarried",2017,12287
+"1094","New Mexico","Unmarried",2018,11785
+"1095","New Mexico","Unmarried",2019,11816
+"1096","New Mexico","Unmarried",2020,11651
+"1097","New Mexico","Unmarried",2021,11200
+"1098","New Mexico","Unmarried",2022,11378
+"1099","New York","Married",2007,150353
+"1100","New York","Married",2008,146828
+"1101","New York","Married",2009,145060
+"1102","New York","Married",2010,142579
+"1103","New York","Married",2011,142024
+"1104","New York","Married",2012,142548
+"1105","New York","Married",2013,141762
+"1106","New York","Married",2014,144115
+"1107","New York","Married",2015,143540
+"1108","New York","Married",2016,144143
+"1109","New York","Married",2017,142474
+"1110","New York","Married",2018,141425
+"1111","New York","Married",2019,138441
+"1112","New York","Married",2020,129509
+"1113","New York","Married",2021,130377
+"1114","New York","Married",2022,129052
+"1115","New York","Unmarried",2007,103098
+"1116","New York","Unmarried",2008,103555
+"1117","New York","Unmarried",2009,103050
+"1118","New York","Unmarried",2010,101796
+"1119","New York","Unmarried",2011,99288
+"1120","New York","Unmarried",2012,98368
+"1121","New York","Unmarried",2013,95218
+"1122","New York","Unmarried",2014,94658
+"1123","New York","Unmarried",2015,93734
+"1124","New York","Unmarried",2016,90140
+"1125","New York","Unmarried",2017,87228
+"1126","New York","Unmarried",2018,84767
+"1127","New York","Unmarried",2019,83049
+"1128","New York","Unmarried",2020,79782
+"1129","New York","Unmarried",2021,80314
+"1130","New York","Unmarried",2022,78686
+"1131","New York","Not Reported",2017,35
+"1132","New York","Not Reported",2018,46
+"1133","New York","Not Reported",2019,49
+"1134","New York","Not Reported",2020,47
+"1135","New York","Not Reported",2021,51
+"1136","New York","Not Reported",2022,36
+"1137","North Carolina","Married",2007,77110
+"1138","North Carolina","Married",2008,75825
+"1139","North Carolina","Married",2009,73180
+"1140","North Carolina","Married",2010,70960
+"1141","North Carolina","Married",2011,71152
+"1142","North Carolina","Married",2012,70661
+"1143","North Carolina","Married",2013,69703
+"1144","North Carolina","Married",2014,71401
+"1145","North Carolina","Married",2015,71295
+"1146","North Carolina","Married",2016,71944
+"1147","North Carolina","Married",2017,70943
+"1148","North Carolina","Married",2018,70304
+"1149","North Carolina","Married",2019,69370
+"1150","North Carolina","Married",2020,67754
+"1151","North Carolina","Married",2021,71120
+"1152","North Carolina","Married",2022,72038
+"1153","North Carolina","Unmarried",2007,53927
+"1154","North Carolina","Unmarried",2008,55014
+"1155","North Carolina","Unmarried",2009,53665
+"1156","North Carolina","Unmarried",2010,51390
+"1157","North Carolina","Unmarried",2011,49237
+"1158","North Carolina","Unmarried",2012,49170
+"1159","North Carolina","Unmarried",2013,49299
+"1160","North Carolina","Unmarried",2014,49574
+"1161","North Carolina","Unmarried",2015,49548
+"1162","North Carolina","Unmarried",2016,48835
+"1163","North Carolina","Unmarried",2017,49164
+"1164","North Carolina","Unmarried",2018,48632
+"1165","North Carolina","Unmarried",2019,49341
+"1166","North Carolina","Unmarried",2020,48958
+"1167","North Carolina","Unmarried",2021,49330
+"1168","North Carolina","Unmarried",2022,49502
+"1169","North Carolina","Not Reported",2017,18
+"1170","North Carolina","Not Reported",2018,18
+"1171","North Carolina","Not Reported",2019,14
+"1172","North Carolina","Not Reported",2020,18
+"1173","North Carolina","Not Reported",2021,16
+"1174","North Carolina","Not Reported",2022,22
+"1175","North Dakota","Married",2007,5954
+"1176","North Dakota","Married",2008,5935
+"1177","North Dakota","Married",2009,6058
+"1178","North Dakota","Married",2010,6127
+"1179","North Dakota","Married",2011,6344
+"1180","North Dakota","Married",2012,6828
+"1181","North Dakota","Married",2013,7163
+"1182","North Dakota","Married",2014,7679
+"1183","North Dakota","Married",2015,7741
+"1184","North Dakota","Married",2016,7784
+"1185","North Dakota","Married",2017,7356
+"1186","North Dakota","Married",2018,7243
+"1187","North Dakota","Married",2019,7092
+"1188","North Dakota","Married",2020,6755
+"1189","North Dakota","Married",2021,6939
+"1190","North Dakota","Married",2022,6576
+"1191","North Dakota","Unmarried",2007,2886
+"1192","North Dakota","Unmarried",2008,3003
+"1193","North Dakota","Unmarried",2009,2943
+"1194","North Dakota","Unmarried",2010,2977
+"1195","North Dakota","Unmarried",2011,3183
+"1196","North Dakota","Unmarried",2012,3278
+"1197","North Dakota","Unmarried",2013,3436
+"1198","North Dakota","Unmarried",2014,3680
+"1199","North Dakota","Unmarried",2015,3573
+"1200","North Dakota","Unmarried",2016,3599
+"1201","North Dakota","Unmarried",2017,3378
+"1202","North Dakota","Unmarried",2018,3392
+"1203","North Dakota","Unmarried",2019,3360
+"1204","North Dakota","Unmarried",2020,3302
+"1205","North Dakota","Unmarried",2021,3173
+"1206","North Dakota","Unmarried",2022,2987
+"1207","Ohio","Married",2007,87156
+"1208","Ohio","Married",2008,84299
+"1209","Ohio","Married",2009,80902
+"1210","Ohio","Married",2010,78225
+"1211","Ohio","Married",2011,78058
+"1212","Ohio","Married",2012,77764
+"1213","Ohio","Married",2013,78158
+"1214","Ohio","Married",2014,78847
+"1215","Ohio","Married",2015,78939
+"1216","Ohio","Married",2016,78765
+"1217","Ohio","Married",2017,77724
+"1218","Ohio","Married",2018,76788
+"1219","Ohio","Married",2019,75850
+"1220","Ohio","Married",2020,72905
+"1221","Ohio","Married",2021,74543
+"1222","Ohio","Married",2022,73922
+"1223","Ohio","Unmarried",2007,63723
+"1224","Ohio","Unmarried",2008,64522
+"1225","Ohio","Unmarried",2009,63939
+"1226","Ohio","Unmarried",2010,60903
+"1227","Ohio","Unmarried",2011,59860
+"1228","Ohio","Unmarried",2012,60719
+"1229","Ohio","Unmarried",2013,60778
+"1230","Ohio","Unmarried",2014,60620
+"1231","Ohio","Unmarried",2015,60325
+"1232","Ohio","Unmarried",2016,59320
+"1233","Ohio","Unmarried",2017,59091
+"1234","Ohio","Unmarried",2018,58331
+"1235","Ohio","Unmarried",2019,58595
+"1236","Ohio","Unmarried",2020,56278
+"1237","Ohio","Unmarried",2021,55237
+"1238","Ohio","Unmarried",2022,54298
+"1239","Ohio","Not Reported",2017,17
+"1240","Ohio","Not Reported",2018,15
+"1241","Ohio","Not Reported",2019,16
+"1242","Ohio","Not Reported",2021,11
+"1243","Ohio","Not Reported",2022,11
+"1244","Oklahoma","Married",2007,32305
+"1245","Oklahoma","Married",2008,31636
+"1246","Oklahoma","Married",2009,31635
+"1247","Oklahoma","Married",2010,31006
+"1248","Oklahoma","Married",2011,30426
+"1249","Oklahoma","Married",2012,30452
+"1250","Oklahoma","Married",2013,30858
+"1251","Oklahoma","Married",2014,30827
+"1252","Oklahoma","Married",2015,30920
+"1253","Oklahoma","Married",2016,30367
+"1254","Oklahoma","Married",2017,29102
+"1255","Oklahoma","Married",2018,28780
+"1256","Oklahoma","Married",2019,27696
+"1257","Oklahoma","Married",2020,26465
+"1258","Oklahoma","Married",2021,26958
+"1259","Oklahoma","Married",2022,27142
+"1260","Oklahoma","Unmarried",2007,22760
+"1261","Oklahoma","Unmarried",2008,23145
+"1262","Oklahoma","Unmarried",2009,22918
+"1263","Oklahoma","Unmarried",2010,22232
+"1264","Oklahoma","Unmarried",2011,21846
+"1265","Oklahoma","Unmarried",2012,22299
+"1266","Oklahoma","Unmarried",2013,22511
+"1267","Oklahoma","Unmarried",2014,22512
+"1268","Oklahoma","Unmarried",2015,22202
+"1269","Oklahoma","Unmarried",2016,22225
+"1270","Oklahoma","Unmarried",2017,21105
+"1271","Oklahoma","Unmarried",2018,21010
+"1272","Oklahoma","Unmarried",2019,21436
+"1273","Oklahoma","Unmarried",2020,21149
+"1274","Oklahoma","Unmarried",2021,21443
+"1275","Oklahoma","Unmarried",2022,21173
+"1276","Oklahoma","Not Reported",2018,10
+"1277","Oklahoma","Not Reported",2019,11
+"1278","Oklahoma","Not Reported",2022,17
+"1279","Oregon","Married",2007,32042
+"1280","Oregon","Married",2008,31372
+"1281","Oregon","Married",2009,30454
+"1282","Oregon","Married",2010,29291
+"1283","Oregon","Married",2011,29031
+"1284","Oregon","Married",2012,29091
+"1285","Oregon","Married",2013,28923
+"1286","Oregon","Married",2014,29097
+"1287","Oregon","Married",2015,29203
+"1288","Oregon","Married",2016,29238
+"1289","Oregon","Married",2017,27756
+"1290","Oregon","Married",2018,26833
+"1291","Oregon","Married",2019,26708
+"1292","Oregon","Married",2020,25132
+"1293","Oregon","Married",2021,25918
+"1294","Oregon","Married",2022,24551
+"1295","Oregon","Unmarried",2007,17336
+"1296","Oregon","Unmarried",2008,17724
+"1297","Oregon","Unmarried",2009,16678
+"1298","Oregon","Unmarried",2010,16249
+"1299","Oregon","Unmarried",2011,16124
+"1300","Oregon","Unmarried",2012,15976
+"1301","Oregon","Unmarried",2013,16232
+"1302","Oregon","Unmarried",2014,16459
+"1303","Oregon","Unmarried",2015,16452
+"1304","Oregon","Unmarried",2016,16297
+"1305","Oregon","Unmarried",2017,15759
+"1306","Oregon","Unmarried",2018,15248
+"1307","Oregon","Unmarried",2019,15054
+"1308","Oregon","Unmarried",2020,14623
+"1309","Oregon","Unmarried",2021,14925
+"1310","Oregon","Unmarried",2022,14869
+"1311","Oregon","Not Reported",2017,116
+"1312","Oregon","Not Reported",2018,107
+"1313","Oregon","Not Reported",2019,96
+"1314","Oregon","Not Reported",2020,65
+"1315","Oregon","Not Reported",2021,71
+"1316","Oregon","Not Reported",2022,73
+"1317","Pennsylvania","Married",2007,90872
+"1318","Pennsylvania","Married",2008,88323
+"1319","Pennsylvania","Married",2009,86401
+"1320","Pennsylvania","Married",2010,83832
+"1321","Pennsylvania","Married",2011,83417
+"1322","Pennsylvania","Married",2012,82808
+"1323","Pennsylvania","Married",2013,82318
+"1324","Pennsylvania","Married",2014,83885
+"1325","Pennsylvania","Married",2015,82966
+"1326","Pennsylvania","Married",2016,82729
+"1327","Pennsylvania","Married",2017,81285
+"1328","Pennsylvania","Married",2018,80340
+"1329","Pennsylvania","Married",2019,79366
+"1330","Pennsylvania","Married",2020,77174
+"1331","Pennsylvania","Married",2021,79943
+"1332","Pennsylvania","Married",2022,79520
+"1333","Pennsylvania","Unmarried",2007,59841
+"1334","Pennsylvania","Unmarried",2008,60950
+"1335","Pennsylvania","Unmarried",2009,60033
+"1336","Pennsylvania","Unmarried",2010,59489
+"1337","Pennsylvania","Unmarried",2011,59761
+"1338","Pennsylvania","Unmarried",2012,59706
+"1339","Pennsylvania","Unmarried",2013,58603
+"1340","Pennsylvania","Unmarried",2014,58383
+"1341","Pennsylvania","Unmarried",2015,58081
+"1342","Pennsylvania","Unmarried",2016,56680
+"1343","Pennsylvania","Unmarried",2017,56451
+"1344","Pennsylvania","Unmarried",2018,55324
+"1345","Pennsylvania","Unmarried",2019,54854
+"1346","Pennsylvania","Unmarried",2020,53504
+"1347","Pennsylvania","Unmarried",2021,52666
+"1348","Pennsylvania","Unmarried",2022,50715
+"1349","Pennsylvania","Not Reported",2019,10
+"1350","Pennsylvania","Not Reported",2020,15
+"1351","Pennsylvania","Not Reported",2021,13
+"1352","Pennsylvania","Not Reported",2022,17
+"1353","Rhode Island","Married",2007,6927
+"1354","Rhode Island","Married",2008,6764
+"1355","Rhode Island","Married",2009,6322
+"1356","Rhode Island","Married",2010,6146
+"1357","Rhode Island","Married",2011,6085
+"1358","Rhode Island","Married",2012,5852
+"1359","Rhode Island","Married",2013,5992
+"1360","Rhode Island","Married",2014,5905
+"1361","Rhode Island","Married",2015,6036
+"1362","Rhode Island","Married",2016,5948
+"1363","Rhode Island","Married",2017,5961
+"1364","Rhode Island","Married",2018,5924
+"1365","Rhode Island","Married",2019,5653
+"1366","Rhode Island","Married",2020,5583
+"1367","Rhode Island","Married",2021,5885
+"1368","Rhode Island","Married",2022,5860
+"1369","Rhode Island","Unmarried",2007,5449
+"1370","Rhode Island","Unmarried",2008,5284
+"1371","Rhode Island","Unmarried",2009,5120
+"1372","Rhode Island","Unmarried",2010,5031
+"1373","Rhode Island","Unmarried",2011,4875
+"1374","Rhode Island","Unmarried",2012,5074
+"1375","Rhode Island","Unmarried",2013,4817
+"1376","Rhode Island","Unmarried",2014,4918
+"1377","Rhode Island","Unmarried",2015,4957
+"1378","Rhode Island","Unmarried",2016,4850
+"1379","Rhode Island","Unmarried",2017,4675
+"1380","Rhode Island","Unmarried",2018,4582
+"1381","Rhode Island","Unmarried",2019,4522
+"1382","Rhode Island","Unmarried",2020,4518
+"1383","Rhode Island","Unmarried",2021,4578
+"1384","Rhode Island","Unmarried",2022,4408
+"1385","South Carolina","Married",2007,33576
+"1386","South Carolina","Married",2008,32949
+"1387","South Carolina","Married",2009,31749
+"1388","South Carolina","Married",2010,30569
+"1389","South Carolina","Married",2011,30375
+"1390","South Carolina","Married",2012,29753
+"1391","South Carolina","Married",2013,29916
+"1392","South Carolina","Married",2014,30366
+"1393","South Carolina","Married",2015,31096
+"1394","South Carolina","Married",2016,31377
+"1395","South Carolina","Married",2017,30723
+"1396","South Carolina","Married",2018,30508
+"1397","South Carolina","Married",2019,30419
+"1398","South Carolina","Married",2020,29716
+"1399","South Carolina","Married",2021,31298
+"1400","South Carolina","Married",2022,31775
+"1401","South Carolina","Unmarried",2007,29299
+"1402","South Carolina","Unmarried",2008,30122
+"1403","South Carolina","Unmarried",2009,28871
+"1404","South Carolina","Unmarried",2010,27773
+"1405","South Carolina","Unmarried",2011,27018
+"1406","South Carolina","Unmarried",2012,27402
+"1407","South Carolina","Unmarried",2013,26879
+"1408","South Carolina","Unmarried",2014,27261
+"1409","South Carolina","Unmarried",2015,27043
+"1410","South Carolina","Unmarried",2016,25965
+"1411","South Carolina","Unmarried",2017,26298
+"1412","South Carolina","Unmarried",2018,26157
+"1413","South Carolina","Unmarried",2019,26614
+"1414","South Carolina","Unmarried",2020,25976
+"1415","South Carolina","Unmarried",2021,25876
+"1416","South Carolina","Unmarried",2022,26036
+"1417","South Carolina","Not Reported",2020,12
+"1418","South Carolina","Not Reported",2021,11
+"1419","South Dakota","Married",2007,7553
+"1420","South Dakota","Married",2008,7437
+"1421","South Dakota","Married",2009,7354
+"1422","South Dakota","Married",2010,7374
+"1423","South Dakota","Married",2011,7242
+"1424","South Dakota","Married",2012,7433
+"1425","South Dakota","Married",2013,7569
+"1426","South Dakota","Married",2014,7651
+"1427","South Dakota","Married",2015,7752
+"1428","South Dakota","Married",2016,7749
+"1429","South Dakota","Married",2017,7621
+"1430","South Dakota","Married",2018,7599
+"1431","South Dakota","Married",2019,7302
+"1432","South Dakota","Married",2020,7005
+"1433","South Dakota","Married",2021,7280
+"1434","South Dakota","Married",2022,7186
+"1435","South Dakota","Unmarried",2007,4708
+"1436","South Dakota","Unmarried",2008,4634
+"1437","South Dakota","Unmarried",2009,4580
+"1438","South Dakota","Unmarried",2010,4437
+"1439","South Dakota","Unmarried",2011,4604
+"1440","South Dakota","Unmarried",2012,4671
+"1441","South Dakota","Unmarried",2013,4679
+"1442","South Dakota","Unmarried",2014,4632
+"1443","South Dakota","Unmarried",2015,4584
+"1444","South Dakota","Unmarried",2016,4526
+"1445","South Dakota","Unmarried",2017,4509
+"1446","South Dakota","Unmarried",2018,4290
+"1447","South Dakota","Unmarried",2019,4144
+"1448","South Dakota","Unmarried",2020,3951
+"1449","South Dakota","Unmarried",2021,4087
+"1450","South Dakota","Unmarried",2022,4011
+"1451","Tennessee","Married",2007,49558
+"1452","Tennessee","Married",2008,47864
+"1453","Tennessee","Married",2009,45615
+"1454","Tennessee","Married",2010,44433
+"1455","Tennessee","Married",2011,44502
+"1456","Tennessee","Married",2012,44895
+"1457","Tennessee","Married",2013,44771
+"1458","Tennessee","Married",2014,45691
+"1459","Tennessee","Married",2015,45842
+"1460","Tennessee","Married",2016,45579
+"1461","Tennessee","Married",2017,45677
+"1462","Tennessee","Married",2018,45583
+"1463","Tennessee","Married",2019,45012
+"1464","Tennessee","Married",2020,43607
+"1465","Tennessee","Married",2021,46718
+"1466","Tennessee","Married",2022,47404
+"1467","Tennessee","Unmarried",2007,37153
+"1468","Tennessee","Unmarried",2008,37696
+"1469","Tennessee","Unmarried",2009,36596
+"1470","Tennessee","Unmarried",2010,35062
+"1471","Tennessee","Unmarried",2011,35086
+"1472","Tennessee","Unmarried",2012,35476
+"1473","Tennessee","Unmarried",2013,35221
+"1474","Tennessee","Unmarried",2014,35911
+"1475","Tennessee","Unmarried",2015,35843
+"1476","Tennessee","Unmarried",2016,35228
+"1477","Tennessee","Unmarried",2017,35328
+"1478","Tennessee","Unmarried",2018,35160
+"1479","Tennessee","Unmarried",2019,35429
+"1480","Tennessee","Unmarried",2020,35075
+"1481","Tennessee","Unmarried",2021,34984
+"1482","Tennessee","Unmarried",2022,34849
+"1483","Tennessee","Not Reported",2017,11
+"1484","Tennessee","Not Reported",2021,15
+"1485","Tennessee","Not Reported",2022,12
+"1486","Texas","Married",2007,241636
+"1487","Texas","Married",2008,236236
+"1488","Texas","Married",2009,231468
+"1489","Texas","Married",2010,222470
+"1490","Texas","Married",2011,218737
+"1491","Texas","Married",2012,221619
+"1492","Texas","Married",2013,223705
+"1493","Texas","Married",2014,233012
+"1494","Texas","Married",2015,236102
+"1495","Texas","Married",2016,233496
+"1496","Texas","Married",2017,225447
+"1497","Texas","Married",2018,223883
+"1498","Texas","Married",2019,221191
+"1499","Texas","Married",2020,214773
+"1500","Texas","Married",2021,219158
+"1501","Texas","Married",2022,227048
+"1502","Texas","Unmarried",2007,165989
+"1503","Texas","Unmarried",2008,169318
+"1504","Texas","Unmarried",2009,170509
+"1505","Texas","Unmarried",2010,163648
+"1506","Texas","Unmarried",2011,158708
+"1507","Texas","Unmarried",2012,161108
+"1508","Texas","Unmarried",2013,163635
+"1509","Texas","Unmarried",2014,166754
+"1510","Texas","Unmarried",2015,167516
+"1511","Texas","Unmarried",2016,164551
+"1512","Texas","Unmarried",2017,156515
+"1513","Texas","Unmarried",2018,154645
+"1514","Texas","Unmarried",2019,156307
+"1515","Texas","Unmarried",2020,153363
+"1516","Texas","Unmarried",2021,154333
+"1517","Texas","Unmarried",2022,162580
+"1518","Texas","Not Reported",2017,88
+"1519","Texas","Not Reported",2018,96
+"1520","Texas","Not Reported",2019,101
+"1521","Texas","Not Reported",2020,54
+"1522","Texas","Not Reported",2021,103
+"1523","Texas","Not Reported",2022,113
+"1524","Utah","Married",2007,44282
+"1525","Utah","Married",2008,44284
+"1526","Utah","Married",2009,43435
+"1527","Utah","Married",2010,42240
+"1528","Utah","Married",2011,41659
+"1529","Utah","Married",2012,41850
+"1530","Utah","Married",2013,41301
+"1531","Utah","Married",2014,41657
+"1532","Utah","Married",2015,41222
+"1533","Utah","Married",2016,41074
+"1534","Utah","Married",2017,39571
+"1535","Utah","Married",2018,38106
+"1536","Utah","Married",2019,37811
+"1537","Utah","Married",2020,36856
+"1538","Utah","Married",2021,37557
+"1539","Utah","Married",2022,36475
+"1540","Utah","Unmarried",2007,10848
+"1541","Utah","Unmarried",2008,11350
+"1542","Utah","Unmarried",2009,10452
+"1543","Utah","Unmarried",2010,10018
+"1544","Utah","Unmarried",2011,9564
+"1545","Utah","Unmarried",2012,9615
+"1546","Utah","Unmarried",2013,9656
+"1547","Utah","Unmarried",2014,9497
+"1548","Utah","Unmarried",2015,9556
+"1549","Utah","Unmarried",2016,9390
+"1550","Utah","Unmarried",2017,8988
+"1551","Utah","Unmarried",2018,9076
+"1552","Utah","Unmarried",2019,8996
+"1553","Utah","Unmarried",2020,8829
+"1554","Utah","Unmarried",2021,9131
+"1555","Utah","Unmarried",2022,9280
+"1556","Utah","Not Reported",2017,26
+"1557","Utah","Not Reported",2018,27
+"1558","Utah","Not Reported",2019,19
+"1559","Utah","Not Reported",2020,17
+"1560","Utah","Not Reported",2021,24
+"1561","Utah","Not Reported",2022,13
+"1562","Vermont","Married",2007,4127
+"1563","Vermont","Married",2008,3881
+"1564","Vermont","Married",2009,3695
+"1565","Vermont","Married",2010,3783
+"1566","Vermont","Married",2011,3679
+"1567","Vermont","Married",2012,3568
+"1568","Vermont","Married",2013,3572
+"1569","Vermont","Married",2014,3709
+"1570","Vermont","Married",2015,3528
+"1571","Vermont","Married",2016,3490
+"1572","Vermont","Married",2017,3390
+"1573","Vermont","Married",2018,3339
+"1574","Vermont","Married",2019,3227
+"1575","Vermont","Married",2020,3130
+"1576","Vermont","Married",2021,3410
+"1577","Vermont","Married",2022,3353
+"1578","Vermont","Unmarried",2007,2386
+"1579","Vermont","Unmarried",2008,2458
+"1580","Vermont","Unmarried",2009,2415
+"1581","Vermont","Unmarried",2010,2440
+"1582","Vermont","Unmarried",2011,2399
+"1583","Vermont","Unmarried",2012,2441
+"1584","Vermont","Unmarried",2013,2403
+"1585","Vermont","Unmarried",2014,2421
+"1586","Vermont","Unmarried",2015,2375
+"1587","Vermont","Unmarried",2016,2266
+"1588","Vermont","Unmarried",2017,2265
+"1589","Vermont","Unmarried",2018,2093
+"1590","Vermont","Unmarried",2019,2133
+"1591","Vermont","Unmarried",2020,1998
+"1592","Vermont","Unmarried",2021,1966
+"1593","Vermont","Unmarried",2022,1958
+"1594","Virginia","Married",2007,70584
+"1595","Virginia","Married",2008,68471
+"1596","Virginia","Married",2009,67431
+"1597","Virginia","Married",2010,66465
+"1598","Virginia","Married",2011,66240
+"1599","Virginia","Married",2012,66707
+"1600","Virginia","Married",2013,66850
+"1601","Virginia","Married",2014,68234
+"1602","Virginia","Married",2015,67739
+"1603","Virginia","Married",2016,67609
+"1604","Virginia","Married",2017,65593
+"1605","Virginia","Married",2018,65161
+"1606","Virginia","Married",2019,63215
+"1607","Virginia","Married",2020,60805
+"1608","Virginia","Married",2021,62476
+"1609","Virginia","Married",2022,62364
+"1610","Virginia","Unmarried",2007,38300
+"1611","Virginia","Unmarried",2008,38215
+"1612","Virginia","Unmarried",2009,37628
+"1613","Virginia","Unmarried",2010,36537
+"1614","Virginia","Unmarried",2011,36412
+"1615","Virginia","Unmarried",2012,36306
+"1616","Virginia","Unmarried",2013,35297
+"1617","Virginia","Unmarried",2014,35066
+"1618","Virginia","Unmarried",2015,35564
+"1619","Virginia","Unmarried",2016,34851
+"1620","Virginia","Unmarried",2017,34779
+"1621","Virginia","Unmarried",2018,34665
+"1622","Virginia","Unmarried",2019,34195
+"1623","Virginia","Unmarried",2020,33932
+"1624","Virginia","Unmarried",2021,33336
+"1625","Virginia","Unmarried",2022,33241
+"1626","Virginia","Not Reported",2017,19
+"1627","Virginia","Not Reported",2018,17
+"1628","Virginia","Not Reported",2019,19
+"1629","Virginia","Not Reported",2020,12
+"1630","Virginia","Not Reported",2021,13
+"1631","Virginia","Not Reported",2022,25
+"1632","Washington","Married",2007,59476
+"1633","Washington","Married",2008,59645
+"1634","Washington","Married",2009,59339
+"1635","Washington","Married",2010,57974
+"1636","Washington","Married",2011,58421
+"1637","Washington","Married",2012,59051
+"1638","Washington","Married",2013,58222
+"1639","Washington","Married",2014,60135
+"1640","Washington","Married",2015,60414
+"1641","Washington","Married",2016,61770
+"1642","Washington","Married",2017,59844
+"1643","Washington","Married",2018,59282
+"1644","Washington","Married",2019,58266
+"1645","Washington","Married",2020,56737
+"1646","Washington","Married",2021,57369
+"1647","Washington","Married",2022,56915
+"1648","Washington","Unmarried",2007,29502
+"1649","Washington","Unmarried",2008,30676
+"1650","Washington","Unmarried",2009,29974
+"1651","Washington","Unmarried",2010,28565
+"1652","Washington","Unmarried",2011,28555
+"1653","Washington","Unmarried",2012,28412
+"1654","Washington","Unmarried",2013,28355
+"1655","Washington","Unmarried",2014,28450
+"1656","Washington","Unmarried",2015,28576
+"1657","Washington","Unmarried",2016,28735
+"1658","Washington","Unmarried",2017,27665
+"1659","Washington","Unmarried",2018,26760
+"1660","Washington","Unmarried",2019,26588
+"1661","Washington","Unmarried",2020,26288
+"1662","Washington","Unmarried",2021,26489
+"1663","Washington","Unmarried",2022,26363
+"1664","Washington","Not Reported",2017,53
+"1665","Washington","Not Reported",2018,43
+"1666","Washington","Not Reported",2019,41
+"1667","Washington","Not Reported",2020,61
+"1668","Washington","Not Reported",2021,53
+"1669","Washington","Not Reported",2022,55
+"1670","West Virginia","Married",2007,13123
+"1671","West Virginia","Married",2008,12480
+"1672","West Virginia","Married",2009,11989
+"1673","West Virginia","Married",2010,11475
+"1674","West Virginia","Married",2011,11624
+"1675","West Virginia","Married",2012,11504
+"1676","West Virginia","Married",2013,11417
+"1677","West Virginia","Married",2014,11190
+"1678","West Virginia","Married",2015,11136
+"1679","West Virginia","Married",2016,10495
+"1680","West Virginia","Married",2017,10159
+"1681","West Virginia","Married",2018,9908
+"1682","West Virginia","Married",2019,9660
+"1683","West Virginia","Married",2020,9207
+"1684","West Virginia","Married",2021,9337
+"1685","West Virginia","Married",2022,9299
+"1686","West Virginia","Unmarried",2007,8871
+"1687","West Virginia","Unmarried",2008,9021
+"1688","West Virginia","Unmarried",2009,9279
+"1689","West Virginia","Unmarried",2010,8995
+"1690","West Virginia","Unmarried",2011,9093
+"1691","West Virginia","Unmarried",2012,9323
+"1692","West Virginia","Unmarried",2013,9408
+"1693","West Virginia","Unmarried",2014,9111
+"1694","West Virginia","Unmarried",2015,8669
+"1695","West Virginia","Unmarried",2016,8584
+"1696","West Virginia","Unmarried",2017,8514
+"1697","West Virginia","Unmarried",2018,8340
+"1698","West Virginia","Unmarried",2019,8474
+"1699","West Virginia","Unmarried",2020,8113
+"1700","West Virginia","Unmarried",2021,7860
+"1701","West Virginia","Unmarried",2022,7629
+"1702","Wisconsin","Married",2007,46994
+"1703","Wisconsin","Married",2008,46001
+"1704","Wisconsin","Married",2009,44616
+"1705","Wisconsin","Married",2010,43353
+"1706","Wisconsin","Married",2011,42809
+"1707","Wisconsin","Married",2012,42180
+"1708","Wisconsin","Married",2013,41992
+"1709","Wisconsin","Married",2014,41750
+"1710","Wisconsin","Married",2015,41928
+"1711","Wisconsin","Married",2016,41804
+"1712","Wisconsin","Married",2017,40447
+"1713","Wisconsin","Married",2018,40118
+"1714","Wisconsin","Married",2019,39441
+"1715","Wisconsin","Married",2020,37626
+"1716","Wisconsin","Married",2021,39047
+"1717","Wisconsin","Married",2022,37940
+"1718","Wisconsin","Unmarried",2007,25790
+"1719","Wisconsin","Unmarried",2008,26260
+"1720","Wisconsin","Unmarried",2009,26227
+"1721","Wisconsin","Unmarried",2010,25134
+"1722","Wisconsin","Unmarried",2011,25001
+"1723","Wisconsin","Unmarried",2012,25115
+"1724","Wisconsin","Unmarried",2013,24657
+"1725","Wisconsin","Unmarried",2014,25411
+"1726","Wisconsin","Unmarried",2015,25113
+"1727","Wisconsin","Unmarried",2016,24811
+"1728","Wisconsin","Unmarried",2017,24523
+"1729","Wisconsin","Unmarried",2018,23972
+"1730","Wisconsin","Unmarried",2019,23821
+"1731","Wisconsin","Unmarried",2020,22962
+"1732","Wisconsin","Unmarried",2021,22727
+"1733","Wisconsin","Unmarried",2022,22103
+"1734","Wyoming","Married",2007,5152
+"1735","Wyoming","Married",2008,5253
+"1736","Wyoming","Married",2009,5202
+"1737","Wyoming","Married",2010,4988
+"1738","Wyoming","Married",2011,4845
+"1739","Wyoming","Married",2012,5013
+"1740","Wyoming","Married",2013,5146
+"1741","Wyoming","Married",2014,5141
+"1742","Wyoming","Married",2015,5135
+"1743","Wyoming","Married",2016,4961
+"1744","Wyoming","Married",2017,4591
+"1745","Wyoming","Married",2018,4375
+"1746","Wyoming","Married",2019,4354
+"1747","Wyoming","Married",2020,4036
+"1748","Wyoming","Married",2021,4179
+"1749","Wyoming","Married",2022,4076
+"1750","Wyoming","Unmarried",2007,2741
+"1751","Wyoming","Unmarried",2008,2785
+"1752","Wyoming","Unmarried",2009,2679
+"1753","Wyoming","Unmarried",2010,2568
+"1754","Wyoming","Unmarried",2011,2554
+"1755","Wyoming","Unmarried",2012,2559
+"1756","Wyoming","Unmarried",2013,2498
+"1757","Wyoming","Unmarried",2014,2555
+"1758","Wyoming","Unmarried",2015,2630
+"1759","Wyoming","Unmarried",2016,2425
+"1760","Wyoming","Unmarried",2017,2311
+"1761","Wyoming","Unmarried",2018,2183
+"1762","Wyoming","Unmarried",2019,2208
+"1763","Wyoming","Unmarried",2020,2090
+"1764","Wyoming","Unmarried",2021,2055
+"1765","Wyoming","Unmarried",2022,1968
