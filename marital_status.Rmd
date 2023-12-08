@@ -1,0 +1,24 @@
+---
+title: "Marital Status"
+output: html_document
+date: "2023-12-08"
+---
+
+```{r setup}
+#bc there is an NA in a file
+data <- read.table("Natality, 2007-2022 (1).txt", header=TRUE, sep="\t", fill=TRUE)
+
+# Removing columns by index
+data <- data[-c(1, 3, 5, 7)]
+
+summary(data)
+
+str(data)
+
+# Removing rows by index
+marital_status <- data[-c(1766:1797), ]
+
+# Write data frame to CSV
+write.csv(marital_status, "marital_status.csv")
+```
+
