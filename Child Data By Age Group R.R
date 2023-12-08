@@ -76,7 +76,9 @@ entering_and_exiting_data <- entering_and_exiting_data %>%
   filter(`Age group` != 'Total')
 entering_and_exiting_data <- entering_and_exiting_data %>%
   filter(TimeFrame < as.Date("2022-01-01"))
-
+entering_and_exiting_data$EnteringNumber <- as.numeric(entering_and_exiting_data$EnteringNumber)
+entering_and_exiting_data$ExitingNumber <- as.numeric(entering_and_exiting_data$ExitingNumber)
+entering_and_exiting_data$AdoptionNumber <- as.numeric(entering_and_exiting_data$AdoptionNumber)
 
 ## CSV AND REPORT
 write.csv(entering_and_exiting_data, 'Final_Data_by_Age.csv', row.names = FALSE)
